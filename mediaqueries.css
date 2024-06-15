@@ -36,6 +36,8 @@
   }
   #hamburger-nav {
     display: flex;
+    gap: 100px;
+    justify-content: space-around;
   }
   #experience,
   .experience-details-container {
