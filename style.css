@@ -367,7 +367,7 @@ section {
 }
 article {
   display: flex;
-  width: 300px;
+  width: 420px;
   justify-content: flex-start;
   gap: 0.5rem;
 }
